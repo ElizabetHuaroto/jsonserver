@@ -18,7 +18,7 @@
         "emailUser":"Camilo@gmail.com",
         "passwordUser": "123%&",
         "districUser":"Los Olivos",
-        "ageUser": 17,
+        "ageUser": 17
        
       },
       {
@@ -28,7 +28,7 @@
         "emailUser":"Rosa@gmail.com",
         "passwordUser": "123%&",
         "districUser":"San Isidro",
-        "ageUser": 27,
+        "ageUser": 27
         
       },
       {
@@ -38,7 +38,7 @@
         "emailUser":"karina@gmail.com",
         "passwordUser": "123%&",
         "districUser":"San Miguel",
-        "ageUser": 14,
+        "ageUser": 14
         
       },
       {
@@ -48,7 +48,7 @@
         "emailUser":"lperez@gmail.com",
         "passwordUser": "123%&",
         "districUser":"San Juan de Lurigancho",
-        "ageUser": 27,
+        "ageUser": 27
         
       }
     ],
