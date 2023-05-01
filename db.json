@@ -8,7 +8,7 @@
         "passwordUser": "123%&",
         "districUser":"San Juan de Lurigancho",
         "ageUser": 27,
-        "photo": "https://aufloria.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-18-at-14.18.38-8.jpeg"
+       
       },
 
       {
@@ -19,7 +19,7 @@
         "passwordUser": "123%&",
         "districUser":"Los Olivos",
         "ageUser": 17,
-        "photo": "https://i.pinimg.com/236x/e6/d7/d2/e6d7d2c2c09bfc5b1aadbedbfdfbe435.jpg"
+       
       },
       {
         "id":3,
@@ -29,7 +29,7 @@
         "passwordUser": "123%&",
         "districUser":"San Isidro",
         "ageUser": 27,
-        "photo": "https://cdn.pixabay.com/photo/2015/03/03/08/55/portrait-657116_1280.jpg"
+        
       },
       {
         "id":4,
@@ -39,7 +39,7 @@
         "passwordUser": "123%&",
         "districUser":"San Miguel",
         "ageUser": 14,
-        "photo": "https://i.pinimg.com/236x/31/b7/73/31b773178e85fe16a30955b8c9d50463.jpg"
+        
       },
       {
         "id":5,
@@ -49,7 +49,7 @@
         "passwordUser": "123%&",
         "districUser":"San Juan de Lurigancho",
         "ageUser": 27,
-        "photo": "https://i.pinimg.com/736x/df/2e/28/df2e28242e54581daaf2d401842174da.jpg"
+        
       }
     ],
     "colegios":[
